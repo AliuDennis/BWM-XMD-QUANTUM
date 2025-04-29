@@ -9,7 +9,7 @@
   "stack": "heroku-24",
   "env": {
     "PREFIX": {
-      "description": "Choose your prefix for your bot",
+      "description": "DENNIS B0T",
       "value": ".",
       "required": true
     },
@@ -35,12 +35,12 @@
     },
     "AUTO_READ": {
       "description": "Messages will be marked as read automatically (type yes to activate or no to deactivate)",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
     "BOT_NAME": {
       "description": "Name for your bot",
-      "value": "BWM-XMD",
+      "value": "DENNIS●BOT",
       "required": false
     },
     "BOT_IMAGE": {
@@ -50,7 +50,7 @@
     },
     "PUBLIC_MODE": {
       "description": "Type yes for public mode or no for private mode",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "HEROKU_API_KEY": {
@@ -65,12 +65,12 @@
     },
     "OWNER_NUMBER": {
       "description": "Enter your number eg, 2547xxxxxxx",
-      "value": "",
+      "value": "2347026496844",
       "required": true 
     },
    "STATUS_REACT_EMOJIS": {
       "description": "Enter your auto like status emojis",
-      "value": "💚,🚀,🌎,✅",
+      "value": "💚,👍,😒,🙄",
       "required": false 
     },
     "AUTO_REACT": {
@@ -85,12 +85,12 @@
     },
     "OWNER_NAME": {
       "description": "Owner name",
-      "value": "Ibrahim Adams",
+      "value": "DENN!S",
       "required": false
     },
     "SESSION_ID": {
       "description": "Your session ID",
-      "value": "",
+      "value": "BWM-XMD;;;H4sIAAAAAAAAA61W246rOBb9lZFfK6fD3RCppDYEciHkUrmnNQ8GDDghQBmThBzlG+Z5nucn5nvmB+YXWlSqVEfq7jrVUvFkGXvttW9r+zvIcloSl9Sg8x0UjJ4wJ82S1wUBHWBWUUQYaIEQcww6YDJcSqPlyHBHTIj4aUk33LS8k9V7iKkV7mRxt7HWs3BYpctHcGuBovJTGnwAePUzf8KtPI1Utu/DjTA1DqIbasVuMu9Z3uDZP0eX8dDs2bNHcGsQMWU0i+0iIUfCcOqSeoop+xx9bSgy13uq9Z7k9h5WnkOjdDLbD+NdlGVXL94zfvbls4Wdwefoy3E5O+5sW1QDKVM9Y4MzfzeykrD9wOCDGc0kgiE+D10b3emXNM5IOAhJximvPx33uL9tT1OxZplYXXFu7K9GEcfRekQj3a7G9sNZP+eiGzmC8jniD0my7jF9LiXW4uwJZKUsoOT25/4+647wQpHGTKt4PRa7hx+JT9lbrRz+Ttzd8WqxjuKJl3ixnbrBqsoF52J3te6my7dPK39n17ye1JL4ybI5X4554ndtakGrN02vaNi2zlu4c7aXuvsUrs2lFemnTfwsle/0Ma/YRyzVNCHDswPxdCyvpXacbfXq0tbUcCCPi7qqN9pUns8dJ9AdPz3bS6TC53AX+KO25q7ih01/D43pNsN2W7j6bT9YzE2Znh9fPDqQehCCjnhrAUZiWnKGOc2zlz2pBXB4mpOAEf4SXWBV8rEKV8W5HWbuk1N7qNT7oWIiQxOrqzmbHJ/GId8n5ip4BC1QsDwgZUnCPi15zmqPlCWOSQk6v70kqvGZkWPOyZCGoAMkWYGCpCmGpivKr+Uv5wTzEhfFLxnhoAUilh89AjqcVaQFXm5AVUN6Y11EhqxIjmaJULYMq2vIOhQVpXHxeLe6oEdScnwsQEeEimpIhq5pt9YXEUFIEm1F0QRRs3RZ0EQLCQoSHFUyLRE68CdEjC8jYtg6chxZdxyxK3WhKDsyEh3RkXXdQAjqHxPRhS8jYuuGbJkC0mXDlKAmIV3XkCEqhmAqgimJPyHydRERBBMqiqFDU7IdKKqqbEKky44lGrYAkfMxEUP/MiIKUru2Y4q2Zpim05VlVUCOqUIV2YIqK9qHRAxRvP2zBTJy4Xexa1pUllogoqzky6wq0hyHb0r49hMHQV5lfF5ngdUsCAMd8X2bcE6zuGxcqzLMgoSeiNX4AToRTktya4GQnGhAGjygXfp9Y648L4bVU7/ONCZM6Cpu+jzJs/uRwNckIwyDb7Kmht8UQxW+6ZIYfiMwICQwoB6qBDThuM+Z5s5fyt4aQQvX1/3OfYK1z5fXZKabq6wePN3F+K5XhJHwLco+Dg5VscgPJPsA99mPJIVJ5k5K5GsKc3K1MgGyEFveD7h3HQSd7++z3crDBm/n9ca6NbdAk63Gzh/LoaPAP1ZEhpvjYMryiJRlzv5hkozy/H///s////uvxvBrVhrIkHBM07KR3HGvf4z0rj3F3llHvR4axMiKEXjP4tsIuWt0jJYna95LE0+clpriy5XObEs8aFFuV8PtgzK7BhvvLOln9PgnIKAD8IJWyl5bPnd3g+l+kozl9WFzmh8nbrnuDq4H3EYULjb73TF7dibH5y0ZKJNwN+z6a4NpNT3Je5Y6+THCwopuHLHwvdBq5s1bNf1oLPddXWonqK/z3rpYy8h9mGG/XLMBwu0SbkyfudZmCS9w353aVhrMFkdM4WG7nPBZlycGTVKbOvuFjoIwZ4txii4Jug+3l+Gavj5q6OvcuddeRMnLG+E1KT/P3nsfCLfWDyCvz46/qDVzi5zR+ZAU28V4ASdVz4An94L4bpJp5oiup5Xtyc7VG588BG5Ngxcp5lHOjk0espDlNAQtkOKSo/dW/rMJIrbAsUZFMeeYvykAQM3njUpw+x04/K4yUQsAAA==",
       "required": true
     },    
     "STARTING_BOT_MESSAGE": {
@@ -100,7 +100,7 @@
     },
     "PRESENCE": {
       "description": "Presence mode: 1=online, 2=typing, 3=recording",
-      "value": "",
+      "value": "1=online",
       "required": false
     },
     "ANTIDELETE_SENT_INBOX": {
@@ -110,7 +110,7 @@
     },
    "ANTIDELETE_RECOVER_CONVENTION": {
       "description": "Enable anti-delete deleted to recover in conversation (yes/no)",
-      "value": "no",
+      "value": "yes",
       "required": false
     },	  
     "GROUPANTILINK": {
@@ -120,12 +120,12 @@
     },
     "CHATBOT": {
       "description": "Enable text chatbot (yes/no)",
-      "value": "no",
+      "value":"yes",
       "required": false
     },
     "WELCOME_MESSAGE": {
       "description": "Enable welcoming message in groups (yes/no)",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
     "GOODBYE_MESSAGE": {
